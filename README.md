@@ -31,4 +31,4 @@ El resultado de llamar al método next es un objeto con dos propiedades:
 value: valor actual del generador
 done: booleano que indica si ya termino la secuencia
 
-[Ver Referencia](https://www.google.es/search?rlz=1C5CHFA_enES791ES791&ei=bRrQW_PJHYvWgQbj4r6YBQ&q=funciones+generadoaeas+js&oq=funciones+generadoaeas+js&gs_l=psy-ab.3..0i13k1.2119.2437.0.2645.3.3.0.0.0.0.189.408.0j3.3.0....0...1c.1.64.psy-ab..0.3.408...0i13i30k1.0.FVsZiGc_6RY)
+[Ver Referencia](http://www.enrique7mc.com/2016/01/un-vistazo-a-los-generadores-en-es6/)
